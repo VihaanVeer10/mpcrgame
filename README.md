@@ -1,1 +1,2 @@
-# mpcrgame
+# synchronousBallMovement
+Ball moving synchronously
